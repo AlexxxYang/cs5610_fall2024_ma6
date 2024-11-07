@@ -1,0 +1,9 @@
+.cell {
+  border: 1px solid grey;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+  
+.cell:hover {
+  border-color: blue;
+}
